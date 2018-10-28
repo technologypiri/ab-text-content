@@ -1,0 +1,17 @@
+{
+  "packageName": "com.teknolojipiri.ayetbul",
+  "messages": [
+    {
+      "filters": {
+        "appVersionCode": "1"
+      },
+      "descriptions": {
+        "*": {
+          "title": "Yenilikler",
+          "message": " - Namaz vakitleri arayüzü yenilendi. Yenilenen arayüz ile en yakın vakte kalan süreyi görebilecek, ayrıca tüm ayın vakitlerine aynı ekrandan ulaşabileceksiniz.\n - Kıble Gösterici eklendi."
+        }
+      },
+      "maxDisplayCount": 1
+    }
+  ]
+}
